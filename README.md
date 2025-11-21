@@ -57,8 +57,6 @@
 <p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
-          
-    
 <ul dir="auto">
   <li>🏫 I am an <code>Information Systems student</code> at Al-Shorouk Academy</li>
   <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
@@ -92,7 +90,13 @@
      alt="Become a Patron" 
      style="display: block; height: 60px; width: auto; max-width: 100%; height: auto; border-radius: 10px;"></a> -->
 
---- -->
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ 
 
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">📩 Connect with me</h2>
@@ -137,14 +141,14 @@
 
 
 </p>
-<div class="markdown-heading" dir="auto">
+<!-- <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2>
   <a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
       <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
     </svg>
   </a>
-</div>
+</div> -->
 
 <br>
 
