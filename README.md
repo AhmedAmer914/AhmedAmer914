@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ahmed Musallam</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave" />, I'm Ahmed Musallam   </h1>
 <h3 align="center">Full Stack Developer | Building powerful and scalable web applications</h3>
 
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=🚀+.NET+Developer+(ASP.NET+Core+MVC+%2F+Web+API);🧩+Backend+%26+Database-Driven+Systems;🔐+Auth%2FAuthorization+(Identity+%2B+JWT);⚡+Integrations%3A+Payments+%7C+Shipping+%7C+Facebook+Graph+API;📦+Background+Jobs+%7C+Real-time+SignalR+%7C+Clean+Architecture"
+    alt="Typing SVG"
+  />
+</div>
 
 
   
 <div align="center">
 
-  <!-- 🌟 عدد النجوم (Stars) -->
-  <a href="https://github.com/AhmedAmer914/E-Commerce/stargazers">
-    <img src="https://img.shields.io/github/stars/AhmedAmer914/E-Commerce" alt="Stars Badge"/>
-  </a>
-
-  <!-- 🍴 عدد الفروع (Forks) -->
-  <a href="https://github.com/AhmedAmer914/E-Commerce/network/members">
-    <img src="https://img.shields.io/github/forks/AhmedAmer914/E-Commerce" alt="Forks Badge"/>
-  </a>
+  
 
   <!-- 🔁 عدد طلبات السحب (Pull Requests) -->
   <a href="https://github.com/AhmedAmer914/E-Commerce/pulls">
